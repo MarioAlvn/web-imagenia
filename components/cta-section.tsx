@@ -14,7 +14,7 @@ export function CTASection() {
           <span className="italic">de Morón</span>
         </h2>
         <p className="text-lg text-primary-foreground/70 max-w-2xl mx-auto mb-10 leading-relaxed">
-          A tan solo 2 minutos de la Comisaria de Policía, los más cercanos.
+          A tan solo 2 minutos de la Comisaría de Policía, los más cercanos.
         </p>
         <Button
           size="lg"
